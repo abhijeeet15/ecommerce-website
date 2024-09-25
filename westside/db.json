@@ -1,0 +1,143 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Nuon Dark Blue Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993876TINTBLUE_1.jpg?v=1726751858",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993876TINTBLUE_2.jpg?v=1726751855",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993876TINTBLUE_3.jpg?v=1726751857"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-dark-blue-relaxed-fit-mid-rise-jeans-300993876",
+        "tag": "New"
+      },
+      {
+        "id": 2,
+        "name": "Nuon Blue Ripped Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993877LIGHTBLUE_1.jpg?v=1726751762",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993877LIGHTBLUE_2.jpg?v=1726751763",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993877LIGHTBLUE_3.jpg?v=1726751763"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-blue-ripped-relaxed-fit-mid-rise-jeans-300993877",
+        "tag": "New"
+      },
+      {
+        "id": 3,
+        "name": "Nuon Grey Relaxed-Fit High-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990665LIGHTGREY_1.jpg?v=1726751702",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990665LIGHTGREY_2.jpg?v=1726751702",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990665LIGHTGREY_3.jpg?v=1726751703"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-grey-relaxed-fit-high-rise-jeans-300990665",
+        "tag": "New"
+      },
+      {
+        "id": 4,
+        "name": "Nuon Olive Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986249OLIVE_1.jpg?v=1726751854",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986249OLIVE_2.jpg?v=1726751912",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986249OLIVE_3.jpg?v=1726751873"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-olive-relaxed-fit-mid-rise-jeans-300986249",
+        "tag": "New"
+      },
+      {
+        "id": 5,
+        "name": "Nuon Off-White Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300989925OFFWHITE_1.jpg?v=1726751825",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300989925OFFWHITE_2.jpg?v=1726751831",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300989925OFFWHITE_3.jpg?v=1726751892"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-off-white-relaxed-fit-mid-rise-jeans-300989925",
+        "tag": "New"
+      },
+      {
+        "id": 6,
+        "name": "Nuon Blue Mid-Rise Relaxed-Fit Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987162MIDBLUE_1.jpg?v=1724333976",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987162MIDBLUE_2.jpg?v=1724333977",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987162MIDBLUE_3.jpg?v=1724333976"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-blue-mid-rise-relaxed-fit-jeans-300987162"
+      },
+      {
+        "id": 7,
+        "name": "Nuon Taupe Cargo-Style Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987166CAMEL_1.jpg?v=1723878045",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987166CAMEL_2.jpg?v=1723878044",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987166CAMEL_3.jpg?v=1723878045"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-taupe-cargo-style-relaxed-fit-mid-rise-jeans-300987166"
+      },
+      {
+        "id": 8,
+        "name": "Nuon Black Cargo-Style Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,699.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987160CHARCOAL_1.jpg?v=1724334038",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987160006_5.jpg?v=1724762088",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987160CHARCOAL_2.jpg?v=1724334039"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-black-cargo-style-relaxed-fit-mid-rise-jeans-300987160"
+      },
+      {
+        "id": 9,
+        "name": "Nuon Black Relaxed-Fit Mid-Rise Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986248CHARCOAL_1.jpg?v=1723878114",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986248CHARCOAL_2.jpg?v=1723878045",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986248CHARCOAL_3.jpg?v=1723878045"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-black-relaxed-fit-mid-rise-jeans-300986248"
+      },
+      {
+        "id": 10,
+        "name": "Nuon Off-White Mid-Rise Relaxed-Fit Jeans",
+        "price": "₹ 1,699.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986247OFFWHITE_1.jpg?v=1726236615",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986247OFFWHITE_2.jpg?v=1726236615",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986247OFFWHITE_3.jpg?v=1726236615"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-off-white-mid-rise-relaxed-fit-jeans-300986247"
+      },
+      {
+        "id": 11,
+        "name": "Nuon Beige Relaxed-Fit Mid-Rise Cargo Jeans",
+        "price": "₹ 1,499.00",
+        "vendor": "Nuon",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987165BEIGE_1.jpg?v=1726236814",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987165BEIGE_2.jpg?v=1726236814",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987165BEIGE_3.jpg?v=1726236814"
+        ],
+        "url": "https://www.westside.com/collections/men-jeans/products/nuon-beige-relaxed-fit-mid-rise-cargo-jeans-300987165"
+      }
+    ]
+  }
+  
+
